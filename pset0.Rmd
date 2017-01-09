@@ -1,0 +1,18 @@
+---
+title: "pset0.Rmd"
+author: "Maia ten Brink"
+date: "1/9/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Print 'hello world'
+
+This is where I will print `hello world`:
+
+```{r print}
+print("hello world")
+```
